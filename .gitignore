@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+
+*.xml
+*.json
+*.csv
+
+**/*.xml
+**/*.json
+
+rust_xml_testing/target/*
+rust_xml_testing/target/
+
+javascript_xml_testing/node_modules/
+javascript_xml_testing/node_modules/*

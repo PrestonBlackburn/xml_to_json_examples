@@ -1,0 +1,6 @@
+(rust) time for mono (s): 19
+(rust) time for micro (s): 16
+(javascript) time for converting micro files: 39.905 seconds 
+(javascript) time for converting mono file: N/A (string size error) 
+(python) time for xml_datasets/xml_micro: 44.503 seconds
+(python) time for xml_datasets/xml_mono: 51.169 seconds
