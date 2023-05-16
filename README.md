@@ -1,4 +1,4 @@
-# XML to JSON Exmaples
+# XML to JSON Conversion Examples
 
 A few examples of converting from xml to json in rust, python, and javascript. Time of calculation is computed for each language.
 

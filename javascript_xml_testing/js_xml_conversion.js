@@ -22,7 +22,7 @@ function convert_xml(load_file_path, save_file_path) {
         var json_file = `${file.split(".")[0]}.json`;
         var save_file = join(save_file_path, json_file);
 
-        writeFileSync(save_file, save_file);
+        writeFileSync(save_file, result);
 
 
     }
